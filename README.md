@@ -1,8 +1,7 @@
-#  João Vitor Santana Lopes
+# 🧑‍💻 João Vitor Santana Lopes
 
 **`Desenvolvedor de Software`**
 
-## 🧑‍💻 Sobre Mim   
 
 **Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (3º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**  
 
