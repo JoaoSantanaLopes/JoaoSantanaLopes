@@ -3,7 +3,7 @@
 **`Desenvolvedor de Software`**
 
 
-**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (3º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**  
+**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (4º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**  
 
 Atualmente, foco no desenvolvimento de **aplicações web e desktop**, utilizando **Java, SQL, Spring Boot e JavaScript**. Tenho experiência com **modelagem UML, banco de dados, interfaces gráficas e APIs**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de programação.  
 
