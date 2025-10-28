@@ -3,11 +3,11 @@
 **`Desenvolvedor de Software`**
 
 
-**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (4º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**  
+**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (4º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**
 
-Atualmente, foco no desenvolvimento de **aplicações web e desktop**, utilizando **Java, SQL, Spring Boot e JavaScript**. Tenho experiência com **modelagem UML, banco de dados, interfaces gráficas e APIs**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de programação.  
+Atualmente, foco no desenvolvimento de **aplicações web e desktop**, utilizando **Java (Spring Boot), Python (Django), JavaScript (React) e SQL**. Tenho experiência com **modelagem UML, banco de dados, interfaces gráficas e APIs**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de programação.
 
-Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em projetos inovadores que impactam o dia a dia das pessoas.  
+Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em projetos inovadores que impactam o dia a dia das pessoas. 
   
 
 
@@ -34,7 +34,22 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 
 ### 🤖 Linguagens e Tecnologias
 
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
 <img 
     align="left" 
     alt="Java" 
@@ -85,6 +100,14 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 />
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -109,24 +132,28 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="POSTGRESQL" 
+    title="POSTGRESQL"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+          
 
 
 <br/>
 <br/>
 
-## 📌 Projetos Destacados  
+## 📌 Projetos Destacados 
 
-🔹 **Sistema Hotel Descanso Garantido** – Aplicação em C para gerenciamento de hotéis fictícios, focada em **manipulação de arquivos .txt e lógica de programação**.  
+🔹**Portfólio Terminal (React)** – Meu portfólio pessoal, desenvolvido com **React** para simular uma interface de terminal interativa. 
+
+🔹 **Santo Restauro (Django)** – Sistema web **full stack** para gerenciamento de acervos de museus. Desenvolvido com **Python, Django, MySQL** e frontend em **HTML/CSS/JavaScript**.
 
 🔹 **Java Parkings** – Aplicação em **Java Swing com MySQL** para gerenciamento de estacionamentos, incluindo **cadastro de clientes, cálculo de tempo e preço e geração de relatórios SQL**.  
 
 🔹 **ERP Vórtex Autopeças** – Sistema **full stack** para gerenciamento de autopeças, desenvolvido com **Spring Boot, SQL e frontend em HTML/CSS/JavaScript**.  
+
 
 ---
 
@@ -135,4 +162,4 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 📧 **E-mail:** joaovslopes20@gmail.com  
 🔗 **LinkedIn:** [joao-vitor-santana-lopes](https://www.linkedin.com/in/joao-vitor-santana-lopes)  
 💻 **GitHub:** [JoaoSantanaLopes](https://github.com/JoaoSantanaLopes)  
-
+🌐 **Portfólio:** [Acesse meu portfólio](https://joao-santana.vercel.app)
