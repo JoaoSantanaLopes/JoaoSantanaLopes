@@ -3,7 +3,7 @@
 **`Desenvolvedor de Software`**
 
 
-**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (4º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**
+**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (5º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**
 
 Atualmente, foco no desenvolvimento de **aplicações web e desktop**, utilizando **Java (Spring Boot), Python (Django), JavaScript (React) e SQL**. Tenho experiência com **modelagem UML, banco de dados, interfaces gráficas e APIs**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de programação.
 
@@ -148,7 +148,7 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 
 🔹**Portfólio Terminal (React)** – Meu portfólio pessoal, desenvolvido com **React** para simular uma interface de terminal interativa. 
 
-🔹 **Santo Restauro (Django)** – Sistema web **full stack** para gerenciamento de acervos de museus. Desenvolvido com **Python, Django, MySQL** e frontend em **HTML/CSS/JavaScript**.
+🔹 **Santo Restauro (Django)** – Sistema web **full stack** para gerenciamento de acervos de museus. Desenvolvido com **Python, Django, PostgreSQL** e frontend em **React**.
 
 🔹 **Java Parkings** – Aplicação em **Java Swing com MySQL** para gerenciamento de estacionamentos, incluindo **cadastro de clientes, cálculo de tempo e preço e geração de relatórios SQL**.  
 
