@@ -1,165 +1,80 @@
+<div align="center">
+
 # 🧑‍💻 João Vitor Santana Lopes
 
 **`Desenvolvedor de Software`**
 
+[![GitHub stars](https://custom-icon-badges.demolab.com/github/stars/JoaoSantanaLopes?color=e3b341&labelColor=c99114&style=for-the-badge&logo=star&logoColor=fff&label=Estrelas)](https://github.com/JoaoSantanaLopes?tab=repositories&sort=stargazers)
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/JoaoSantanaLopes?color=1f6feb&labelColor=1158c7&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/JoaoSantanaLopes?tab=followers)
 
-**Olá! Sou João Vitor Santana Lopes, estudante de Engenharia de Software (5º período - PUC Minas), apaixonado por tecnologia e desenvolvimento de software.**
+</div>
+
+---
+
+## 👤 Sobre mim
+
+Olá! Sou **João Vitor Santana Lopes**, estudante de **Engenharia de Software** (5º período) na **PUC Minas**, apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente, foco no desenvolvimento de **aplicações web e desktop**, utilizando **Java (Spring Boot), Python (Django), JavaScript (React) e SQL**. Tenho experiência com **modelagem UML, banco de dados, interfaces gráficas e APIs**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de programação.
 
-Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em projetos inovadores que impactam o dia a dia das pessoas. 
-  
+Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em projetos inovadores que impactem o dia a dia das pessoas.
 
+---
+
+## 📊 Atividade no GitHub
+
+[![Gráfico de atividade de João](https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantanaLopes&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/JoaoSantanaLopes)
+
+<div align="center">
+  <a href="https://github.com/JoaoSantanaLopes">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoSantanaLopes&show_icons=true&include_all_commits=true&count_private=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantanaLopes&layout=compact&langs_count=8&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+#### Back-end
+[![Back-end](https://skillicons.dev/icons?i=java,spring,python,django,nodejs)](https://skillicons.dev)
+
+#### Front-end
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
+#### Banco de Dados
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+
+#### Ferramentas
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)](https://skillicons.dev)
+
+---
+
+## 📌 Projetos Destacados
+
+🔹 **Portfólio Terminal (React)** — Portfólio pessoal desenvolvido com **React**, simulando uma interface de terminal interativa.
+
+🔹 **Santo Restauro (Django)** — Sistema web **full stack** para gerenciamento de acervos de museus. Desenvolvido com **Python, Django, PostgreSQL** e frontend em **React**.
+
+🔹 **Java Parkings** — Aplicação em **Java Swing com MySQL** para gerenciamento de estacionamentos, incluindo cadastro de clientes, cálculo de tempo e preço, e geração de relatórios SQL.
+
+🔹 **ERP Vórtex Autopeças** — Sistema **full stack** para gerenciamento de autopeças, desenvolvido com **Spring Boot, SQL** e frontend em **HTML/CSS/JavaScript**.
+
+---
+
+## 📫 Contato
 
 <p align="left">
-    <a href="https://github.com/JoaoSantanaLopes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoaoSantanaLopes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/JoaoSantanaLopes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JoaoSantanaLopes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-   
+  <a href="mailto:joaovslopes20@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/joao-vitor-santana-lopes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://joao-santana.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-14B8A6?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfólio" />
+  </a>
+  <a href="https://github.com/JoaoSantanaLopes" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
+  </a>
 </p>
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="POSTGRESQL" 
-    title="POSTGRESQL"
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-          
-
-
-<br/>
-<br/>
-
-## 📌 Projetos Destacados 
-
-🔹**Portfólio Terminal (React)** – Meu portfólio pessoal, desenvolvido com **React** para simular uma interface de terminal interativa. 
-
-🔹 **Santo Restauro (Django)** – Sistema web **full stack** para gerenciamento de acervos de museus. Desenvolvido com **Python, Django, PostgreSQL** e frontend em **React**.
-
-🔹 **Java Parkings** – Aplicação em **Java Swing com MySQL** para gerenciamento de estacionamentos, incluindo **cadastro de clientes, cálculo de tempo e preço e geração de relatórios SQL**.  
-
-🔹 **ERP Vórtex Autopeças** – Sistema **full stack** para gerenciamento de autopeças, desenvolvido com **Spring Boot, SQL e frontend em HTML/CSS/JavaScript**.  
-
-
----
-
-## 📫 Contato  
-
-📧 **E-mail:** joaovslopes20@gmail.com  
-🔗 **LinkedIn:** [joao-vitor-santana-lopes](https://www.linkedin.com/in/joao-vitor-santana-lopes)  
-💻 **GitHub:** [JoaoSantanaLopes](https://github.com/JoaoSantanaLopes)  
-🌐 **Portfólio:** [Acesse meu portfólio](https://joao-santana.vercel.app)
