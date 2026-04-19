@@ -23,7 +23,7 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 
 ## 📊 Atividade no GitHub
 
-[![Gráfico de atividade de João](https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantanaLopes&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/JoaoSantanaLopes)
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantanaLopes&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/JoaoSantanaLopes)
 
 <div align="center">
   <a href="https://github.com/JoaoSantanaLopes">
