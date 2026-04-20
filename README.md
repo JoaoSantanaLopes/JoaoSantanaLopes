@@ -37,7 +37,7 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 ## 🛠️ Linguagens e Tecnologias
 
 #### Back-end
-[![Back-end](https://skillicons.dev/icons?i=java,spring,python,django,nodejs)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=java,spring,python,django,fastapi,nodejs)](https://skillicons.dev)
 
 #### Front-end
 [![Front-end](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
