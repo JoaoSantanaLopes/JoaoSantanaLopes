@@ -46,7 +46,7 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 #### Ferramentas
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman,aws)](https://skillicons.dev)
 
 ---
 
