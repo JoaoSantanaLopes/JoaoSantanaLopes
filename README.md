@@ -21,14 +21,12 @@ Meu objetivo é crescer profissionalmente, enfrentando desafios e colaborando em
 
 ---
 
-## 📊 Atividade no GitHub
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=JoaoSantanaLopes&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/JoaoSantanaLopes)
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/JoaoSantanaLopes">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoSantanaLopes&show_icons=true&include_all_commits=true&count_private=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSantanaLopes&layout=compact&langs_count=8&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoSantanaLopes&show_icons=true&include_all_commits=true&count_private=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoSantanaLopes&layout=compact&langs_count=8&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
