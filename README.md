@@ -13,7 +13,7 @@
 
 ## 👤 Sobre mim
 
-Olá! Sou **João Vitor Santana Lopes**, estudante de **Engenharia de Software** (5º período) na **PUC Minas**, apaixonado por tecnologia e desenvolvimento de software.
+Olá! Sou **João Vitor Santana Lopes**, estudante de **Engenharia de Software** (6º período) na **PUC Minas**, apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente, foco no desenvolvimento de **aplicações web e desktop**, utilizando **Java (Spring Boot), Python (Django), JavaScript (React) e SQL**. Tenho experiência com **modelagem UML, banco de dados, interfaces gráficas e APIs**, buscando sempre aprimorar minhas habilidades e aplicar boas práticas de programação.
 
